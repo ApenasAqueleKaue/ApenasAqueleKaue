@@ -1,9 +1,6 @@
-### Hi there 👋
-
-<!--
-**ApenasAqueleKaue/ApenasAqueleKaue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+#ApenasAquelekauẽ 👋
+**kauẽ Gabriel da Silva de Oliveira** 
+Sou um estudante do enino médio
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
